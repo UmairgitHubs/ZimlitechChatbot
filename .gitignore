@@ -1,0 +1,32 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv
+venv/
+env/
+# virtualenv
+.direnv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+.flaskenv
+
+# IDE and Editor files
+.vscode/        # VS Code settings
+.idea/          # IntelliJ/PyCharm settings
+*.sublime-project
+*.sublime-workspace
+.DS_Store       # macOS specific
+
+# Logs and temporary files
+*.log           # Your chatbot.log file will be ignored
+*.tmp
+*.bak
+
+# Generated data
+faiss_index/    # Your FAISS vector store directory

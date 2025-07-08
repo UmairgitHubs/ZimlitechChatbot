@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchain-google-genai
+langchain-community
+langchain
+langchain-huggingface
+docx2txt
+pydantic
