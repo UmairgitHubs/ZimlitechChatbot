@@ -4,6 +4,7 @@ python-dotenv
 langchain-google-genai
 langchain-community
 langchain
+sentence-transformers
 langchain-huggingface
 docx2txt
 pydantic
